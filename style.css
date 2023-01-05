@@ -1,0 +1,78 @@
+.basic {
+  margin-left: 300px;
+}
+.header-1 {
+  border: 1px solid black;
+  width: 275px;
+  margin-top: 50px;
+  text-align: center;
+  padding-bottom: 10px;
+  color: #ffff;
+  background-color: black;
+}
+.header-pro {
+  border: 1px solid black;
+  width: 275px;
+  margin-top: 50px;
+  text-align: center;
+  padding-bottom: 10px;
+  color: #ffff;
+  background-color: #555759;
+}
+.header-2 {
+  border: 1px solid black;
+  width: 275px;
+  height: 25px;
+  margin-top: -22px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: large;
+}
+.main-1 {
+  border: 1px solid black;
+  width: 275px;
+  height: 75px;
+  margin-top: -20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: large;
+}
+.main-2 {
+  border: 1px solid black;
+  width: 275px;
+  height: 165px;
+  margin-top: -20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: large;
+}
+.sign-up-background {
+  margin-top: -69px;
+  margin-left: 1px;
+  width: 275px;
+  height: 50px;
+  background-color: #b2bfae;
+}
+.sign-up {
+  background-color: #06801b;
+  color: #ffffff;
+  font-size: larger;
+  border: #fff solid 1px;
+  border-radius: 5px;
+}
+.sign-up:hover {
+  background-color: #fff;
+  color: black;
+  border-color: #06801b;
+}
+.pro {
+  margin-left: 580px;
+  margin-top: -441px;
+}
+.primium {
+  margin-left: 860px;
+  margin-top: -441px;
+}
